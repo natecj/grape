@@ -2,7 +2,7 @@
 =================
 
 #### Features
-
+* Added missing method `all_or_none_of` for the DSL parameters - [@natecj](https://github.com/natecj).
 * [#691](https://github.com/intridea/grape/issues/691): Added `at_least_one_of` parameter validator - [@dblock](https://github.com/dblock).
 * [#698](https://github.com/intridea/grape/pull/698): `error!` sets `status` for `Endpoint` too - [@dspaeth-faber](https://github.com/dspaeth-faber).
 * [#703](https://github.com/intridea/grape/pull/703): Added support for Auth-Middleware extension - [@dspaeth-faber](https://github.com/dspaeth-faber).
